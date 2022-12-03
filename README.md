@@ -1,2 +1,4 @@
-# scotts-list
-Rest App Searching computer gigs throughout US Craigslist Major Cities 
+# Content Creator News Blog
+
+
+React News Blog  
